@@ -4,6 +4,7 @@ import pandas as pd
 from datetime import datetime, date
 import os
 
+st.image("VT.jpg")
 # =========================================================
 # CẤU HÌNH APP
 # =========================================================
